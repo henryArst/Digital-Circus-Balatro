@@ -1,0 +1,13 @@
+{
+	"id": "DigitalCircusCards",
+	"name": "Digital Circus Cards",
+	"author": ["Henry Aest"],
+	"description": "Mod based on the animation The Amazing Digital Circus by Glitch Productions. This is just a non-profit fan project, I hope you like it!",
+	"prefix": "digital",
+	"badge_colour": "e8a509",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1404b)"
+	],
+	"main_file": "cards.lua",
+	"version": "1.0.0"
+}
